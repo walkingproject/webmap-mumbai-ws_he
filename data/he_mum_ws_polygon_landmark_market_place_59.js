@@ -1,0 +1,1 @@
+var json_he_mum_ws_polygon_landmark_market_place_59 = {"type":"FeatureCollection","name":"he_mum_ws_polygon_landmark_market_place_59","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[]}

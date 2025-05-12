@@ -1,0 +1,1 @@
+var json_he_mum_ws_polygon_landmark_stadium_48 = {"type":"FeatureCollection","name":"he_mum_ws_polygon_landmark_stadium_48","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[]}

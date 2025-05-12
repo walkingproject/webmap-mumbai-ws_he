@@ -1,0 +1,1 @@
+var json_he_mum_ws_polygon_landmark_cinema_55 = {"type":"FeatureCollection","name":"he_mum_ws_polygon_landmark_cinema_55","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[]}
